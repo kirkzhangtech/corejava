@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="v2ch08">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2ch08/asm-commons-9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch08/asm-9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

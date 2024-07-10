@@ -11,7 +11,7 @@ public class Pair<T>
 
    public Pair() { first = null; second = null; }
    public Pair(T first, T second) { this.first = first;  this.second = second; }
-
+   //返回泛型变量
    public T getFirst() { return first; }
    public T getSecond() { return second; }
 

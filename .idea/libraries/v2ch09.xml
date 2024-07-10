@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="v2ch09">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/v2ch09/jakarta.json-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jakarta.json.bind-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/jakarta.json-2.0.1-module.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/commons-csv-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/v2ch09/yasson-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

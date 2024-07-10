@@ -1,0 +1,1148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "exportedpkg/ImageViewer",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/ImageViewer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "exportedpkg/RecordTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/RecordTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "exportedpkg/Retirement2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/Retirement2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "exportedpkg/Win32RegKeyTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/Win32RegKeyTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PersonTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/abstractClasses.PersonTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ActionTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/action.ActionTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "AESTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/aes.AESTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClassTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/anonymousInnerClass.AnonymousInnerClassTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/arrayList.ArrayListTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CopyOfTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/arrays.CopyOfTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "AuthTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/auth.AuthTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "BlockingQueueTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/blockingQueue.BlockingQueueTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "BookTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/book.BookTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "BorderTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/border.BorderTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ButtonTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/button.ButtonTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ButtonTest(1)",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/buttons3.ButtonTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "EntryLogger",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/bytecodeAnnotations.EntryLogger",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/calculator.Calculator",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/checkBox.CheckBoxTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CircleLayoutTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/circleLayout.CircleLayoutTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CircularArrayQueueTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/circularArrayQueue.CircularArrayQueueTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "Caesar",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/classLoader.Caesar",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ClassLoaderTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/classLoader.ClassLoaderTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "HttpClientTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/client.HttpClientTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CloneTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/clone.CloneTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CollationTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/collation.CollationTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CollationTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/collation.CollationTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CollectingIntoMaps",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/collecting.CollectingIntoMaps",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CollectingResults",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/collecting.CollectingResults",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DownstreamCollectors",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/collecting.DownstreamCollectors",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/com.horstmann.hello.HelloWorld",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/comboBox.ComboBoxTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CompilerTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/compiler.CompilerTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureDemo",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/completableFutures.CompletableFutureDemo",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CompositeTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/composite.CompositeTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CHMDemo",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/concurrentHashMap.CHMDemo",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DataExchangeTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/dataExchange.DataExchangeTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeFormatTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/dateFormat.DateTimeFormatTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeFormatTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/dateFormat.DateTimeFormatTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DialogTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/dialog.DialogTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "JSONConverter",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/dom.JSONConverter",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DrawTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/draw.DrawTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "EnumTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/enums.EnumTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "EqualsTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/equals.EqualsTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ExceptTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/except.ExceptTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionalTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/exceptional.ExceptionalTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ExecSQL",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/exec.ExecSQL",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ExecutorDemo",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/executors.ExecutorDemo",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "FileChooserTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/fileChooser.FileChooserTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "FindDirectories",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/findDirectories.FindDirectories",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "FontTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/font.FontTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ForkJoinTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/forkJoin.ForkJoinTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "GenericAlgorithms",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/genericAlgorithms.GenericAlgorithms",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "GenericReflectionTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/genericReflection.GenericReflectionTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TypeLiterals",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/genericReflection.TypeLiterals",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "GridBagLayoutTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/gridbag.GridBagLayoutTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "Digest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/hash.Digest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ImageTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/image.ImageTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ImageIOTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/imageIO.ImageIOTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ImageProcessingTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/imageProcessing.ImageProcessingTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "InetAddressTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/inetAddress.InetAddressTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ManagerTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/inheritance.ManagerTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "InnerClassTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/innerClass.InnerClassTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeSortTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/interfaces.EmployeeSortTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "InterruptibleSocketTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/interruptible.InterruptibleSocketTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "JAASTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/jaas.JAASTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "LambdaTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/lambda.LambdaTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "DefeatCheckedExceptionChecking",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/limitations.DefeatCheckedExceptionChecking",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "NoGenericArray",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/limitations.NoGenericArray",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/linkedList.LinkedListTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ListFonts",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/listFonts.ListFonts",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "LocalInnerClassTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/localInnerClass.LocalInnerClassTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "LoggingImageViewer",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/logging.LoggingImageViewer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MailTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/mail.MailTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MapTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/map.MapTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "HrefMatch",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/match.HrefMatch",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MemoryMapTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/memoryMap.MemoryMapTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MemoryMapTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/memoryMap.MemoryMapTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MenuTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/menu.MenuTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MethodTableTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/methods.MethodTableTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "MouseTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/mouse.MouseTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "NotHelloWorld",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/notHelloWorld.NotHelloWorld",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/numberFormat.NumberFormatTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/numberFormat.NumberFormatTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ObjectAnalyzerTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/objectAnalyzer.ObjectAnalyzerTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "OptionDialogTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/optionDialog.OptionDialogTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "OptionalTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/optional.OptionalTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PairTest1",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/pair1.PairTest1",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PairTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/pair2.PairTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PairTest3",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/pair3.PairTest3",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ParallelStreams",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/parallel.ParallelStreams",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PostTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/post.PostTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ImageViewer",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/preferences.ImageViewer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PrintTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/print.PrintTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PrintServiceTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/printService.PrintServiceTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/priorityQueue.PriorityQueueTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ReadDir",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/process.ReadDir",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ImageViewer(1)",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/properties.ImageViewer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ProxyTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/proxy.ProxyTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "QueryTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/query.QueryTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RadioButtonTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/radioButton.RadioButtonTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RandomAccessTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/randomAccess.RandomAccessTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RandomAccessTest(1)",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/randomAccess2.RandomAccessTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RasterImageTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/rasterImage.RasterImageTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "GridBagTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/read.GridBagTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "XMLReadTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/read.XMLReadTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SourceLevelAnnotationDemo",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/rect.SourceLevelAnnotationDemo",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ReflectionTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/reflection.ReflectionTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RegexTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/regex.RegexTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ResourceTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/resources.ResourceTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "Retire",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/retire.Retire",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "RSATest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/rsa.RSATest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SAXTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/sax.SAXTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ScriptTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/script.ScriptTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SealedTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/sealed.SealedTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ObjectStreamTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/serial.ObjectStreamTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SerialCloneTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/serialClone.SerialCloneTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ObjectStreamTest(1)",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/serializationTweaks.ObjectStreamTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "EchoServer",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/server.EchoServer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ServiceLoaderTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/serviceLoader.ServiceLoaderTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SetTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/set.SetTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ShapeTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/shape.ShapeTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/shuffle.ShuffleTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "Sieve",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/sieve.Sieve",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SimpleFrameTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/simpleFrame.SimpleFrameTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SizedFrameTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/sizedFrame.SizedFrameTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SliderTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/slider.SliderTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SocketTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/socket.SocketTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "StackTraceTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/stackTrace.StackTraceTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "StaticInnerClassTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/staticInnerClass.StaticInnerClassTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "StAXTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/stax.StAXTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CountLongWords",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/streams.CountLongWords",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStreams",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/streams.CreatingStreams",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveTypeStreams",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/streams.PrimitiveTypeStreams",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "StrokeTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/stroke.StrokeTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SwingWorkerTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/swingWorker.SwingWorkerTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SynchBankTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/synch.SynchBankTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SynchBankTest2",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/synch2.SynchBankTest2",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TableTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/table.TableTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TableCellRenderTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/tableCellRender.TableCellRenderTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "InvestmentTable",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/tableModel.InvestmentTable",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TableRowColumnTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/tableRowColumn.TableRowColumnTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TestDB",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/test.TestDB",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TextComponentTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/text.TextComponentTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TextFileTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/textFile.TextFileTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ThreadedEchoServer",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/threaded.ThreadedEchoServer",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ThreadTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/threads.ThreadTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TimerTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/timer.TimerTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ToolBarTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/toolBar.ToolBarTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TransformTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/transform.TransformTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "SimpleTree",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/tree.SimpleTree",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TreeEditTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/treeEdit.TreeEditTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ObjectInspectorTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/treeModel.ObjectInspectorTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ClassTree",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/treeRender.ClassTree",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/treeSet.TreeSetTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "UnsynchBankTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/unsynch.UnsynchBankTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "URLConnectionTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/urlConnection.URLConnectionTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "VerifierTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/verifier.VerifierTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ViewDB",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/view.ViewDB",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "XMLWriteTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/write.XMLWriteTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "XPathTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/xpath.XPathTest",
+            "projectName": "corejava_3cc8e14a"
+        },
+        {
+            "type": "java",
+            "name": "ZipTest",
+            "request": "launch",
+            "mainClass": "v2ch09.exportedpkg/zip.ZipTest",
+            "projectName": "corejava_3cc8e14a"
+        }
+    ]
+}
